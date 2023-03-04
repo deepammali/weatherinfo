@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "weatherinfo.open_weather_map.api_key",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherinfo.open_weather_map.api_key'"
+  },
+  {
+    "name": "weatherinfo.x_rapid.api_key",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherinfo.x_rapid.api_key'"
+  },
+  {
+    "name": "weatherinfo.x_rapid.host",
+    "type": "java.lang.String",
+    "description": "A description for 'weatherinfo.x_rapid.host'"
+  }
+]}
