@@ -1,4 +1,4 @@
-# FREIGHTFOX BACKEND ASSIGNMENT - WEATHER INFO FOR PINCODE
+# WEATHER INFO FOR PINCODE
 
 ## Used [OpenWeatherMap](https://openweathermap.org/api/geocoding-api) API for geocoding
 
